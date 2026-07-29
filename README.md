@@ -1,4 +1,4 @@
-# 🏥 Hospital Administration Analysis using Microsoft Excel
+# 🏥 Novartis Hospital Administration Analysis using Microsoft Excel
 
 ## 📖 Project Overview
 

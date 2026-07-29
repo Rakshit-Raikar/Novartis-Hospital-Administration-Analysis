@@ -1,5 +1,7 @@
 # 🏥 Novartis Hospital Administration Analysis using Microsoft Excel
-
+<p align="center">
+  <img src="HospitalAdministration_Dashboard.png" alt="Hospital Administration Dashboard" width="1000">
+</p>
 ## 📖 Project Overview
 
 This project presents a comprehensive healthcare analytics solution developed using **Microsoft Excel** to analyze hospital administration data and identify the major factors contributing to patient readmissions.

@@ -251,7 +251,7 @@ Several real-world data challenges were encountered during the project.
 
 ---
 
-# 🚀 Future Scope
+# 🚀 Future Scope for Improvement
 
 The project can be extended using advanced analytics techniques.
 
@@ -291,11 +291,15 @@ This project demonstrates practical experience in:
 ```text
 Hospital-Administration-Analysis/
 │
-├── 📄 README.md
+├── 📁 dataset/
+│   └── Hospital Administration Analysis Data.csv
+│
 ├── 📊 Hospital Administration Analysis.xlsx
-├── 📑 DACS08 - Hospital Administration Analysis.pdf
-├── 📷 Dashboard Screenshot.png
-└── 📁 Images
+├── 📄 Problem statement - DACS08 - Hospital Administration Analysis.pdf
+├── 🖼️ HospitalAdministration_Dashboard.png
+├── 📄 README.md
+├── 📄 .gitattributes
+└── 🏢 logo-novartis-novartis-ag-logo-11562993107h...
 ```
 
 ---

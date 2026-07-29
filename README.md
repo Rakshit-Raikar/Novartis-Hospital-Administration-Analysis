@@ -2,7 +2,6 @@
 <p align="center">
   <img src="HospitalAdministration_Dashboard.png" alt="Hospital Administration Dashboard" width="1000">
 </p>
----
 
 ## 📖 Project Overview
 
